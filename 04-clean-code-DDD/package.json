@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "typescript": "^5.0.4",
+    "vite-tsconfig-paths": "^4.2.0",
+    "vitest": "^0.31.1"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "license": "MIT"
+}
